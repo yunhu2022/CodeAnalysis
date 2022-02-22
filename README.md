@@ -2,7 +2,7 @@
 🍞 CodeAnalysis 🍷
 
 # Plan
-```json
+```
 {
   1. Vue.js
   2. Vue3.js
